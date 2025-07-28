@@ -55,11 +55,10 @@ alt="Estatísticas do meu GitHub"
 height="200px"
 style="margin-right: 30px;" 
 src="https://github-readme-stats.vercel.app/api?username=paulo-elias-silva&show_icons=true&theme=dracula&locale=pt-br&include_all_commits=true"/>
-
 <img
 alt="Principais Tecnologias de Paulo no GitHub" 
-height="200px"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-elias-silva&layout=donut&show_icons=true&theme=dracula&locale=pt-br&custom_title=Tecnologias&card_width=495&height=200"/>
+height="195px"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-elias-silva&layout=donut&show_icons=true&theme=dracula&locale=pt-br&custom_title=Tecnologias"/>
 
 ---
 
