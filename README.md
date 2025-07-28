@@ -1,16 +1,15 @@
-## Hi there 👋
+#👋 Paulo Elias  
+**`Estudante de Programação`**
+---
 
-<!--
-**paulo-elias-silva/paulo-elias-silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Meu nome é Paulo.
 
-Here are some ideas to get you started:
+Minha primeira oportunidade de trabalho foi como Jovem Aprendiz na área de Marketing Digital. Essa experiência, aliada aos meus conhecimentos em web design, me motivou a buscar profissionalização em Tecnologia da Informação. Iniciei meus estudos com um curso técnico, onde aprendi lógica de programação e programação orientada a objetos com C#.
+Devido ao serviço militar obrigatório, não consegui concluir o curso técnico. No entanto, retornei à área para auxiliar a seção de informática da Força Aérea Brasileira e sigo estudando continuamente para me profissionalizar e construir uma carreira nesse campo.   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-elias-ads/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/5561995526010)
+---
+
+##👨‍💻 Tecnologias
