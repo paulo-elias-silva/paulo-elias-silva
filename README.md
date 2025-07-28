@@ -51,18 +51,15 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstr
 
 ### 📊 Estatísticas
 <img
-alt="Git Estatística" 
-height="190px"
-style="margin-right: 10px"
-src="https://github-readme-stats.vercel.app/api?username=paulo-elias-silva&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true"/>
+alt="Estatísticas" 
+height="200px"
+style="margin-right: 30px;" 
+src="https://github-readme-stats.vercel.app/api?username=paulo-elias-silva&show_icons=true&theme=dracula&locale=pt-br&include_all_commits=true"/>
 <img
-alt="Git Estatística" 
-height="190px"
-style="margin-right: 10px"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-elias-silva&layout=compact&show_icons=true&theme=tokyonight&locale=pt-br&custom_title=Principais Tecnologias"/>
+height="210px"
+alt="Principais Tecnologias" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-elias-silva&layout=compact&show_icons=true&theme=tokyonight&locale=pt-br&custom_title=Principais%20Tecnologias"/>
 
 ---
-
-
             
 
